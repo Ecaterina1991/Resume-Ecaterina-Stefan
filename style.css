@@ -7,6 +7,12 @@ color: #101214;*/
   box-sizing: border-box;
 }
 
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 12px;
+  line-height: 16px;
+}
+
 .container {
   border-top: 10px solid #005889;
   padding: 36px 23px 69px 48px;
@@ -166,3 +172,8 @@ color: #101214;*/
   position: relative;
   background-color: yellow;
 } */
+
+.link {
+  text-decoration: none;
+  color: #005889;
+}
