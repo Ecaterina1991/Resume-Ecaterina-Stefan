@@ -1,0 +1,168 @@
+/* color: #005889; 
+color: #101214;*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  border-top: 10px solid #005889;
+  padding: 36px 23px 69px 48px;
+  color: #101214;
+  height: 780px;
+}
+
+.header {
+  padding-bottom: 20px;
+}
+
+.name {
+  font-family: "Montserrat", sans-serif;
+  font-size: 26px;
+  line-height: 28px;
+  padding-bottom: 4px;
+}
+
+.last-name {
+  color: #005889;
+}
+
+.color-blue {
+  color: #005889;
+}
+
+.email,
+.address {
+  padding-right: 30px;
+  padding-left: 20px;
+}
+
+.title1 {
+  font-family: "Montserrat", sans-serif;
+  color: #005889;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 18px;
+}
+
+.text1 {
+  padding: 10px 30px;
+}
+
+/* .three-colons {
+  display: flex;
+  padding-left: 30px;
+} */
+
+.three-colons {
+  position: relative;
+  padding-left: 30px;
+  background-color: yellow;
+}
+
+.colon-1 {
+  position: absolute;
+  top: 10px;
+  left: 30px;
+}
+
+.colon-2 {
+  position: absolute;
+  top: 10px;
+  left: 270px;
+}
+
+.colon-3 {
+  position: absolute;
+  top: 10px;
+  left: 500px;
+}
+
+.colon {
+  /* width: 33%;
+  padding-top: 10px; */
+  list-style: none;
+}
+
+.colon-1 li:nth-child(2) {
+  list-style: none;
+}
+
+.colon-1 li:nth-child(3) {
+  list-style: none;
+}
+
+.colon-1 li:nth-child(4) {
+  list-style: none;
+}
+
+.colon-2 li:nth-child(2) {
+  list-style: none;
+}
+
+.colon-2 li:nth-child(3) {
+  list-style: none;
+}
+
+.colon-2 li:nth-child(4) {
+  list-style: none;
+}
+
+.colon-3 li:nth-child(2) {
+  list-style: none;
+}
+
+.colon-3 li:nth-child(3) {
+  list-style: none;
+}
+
+.colon-3 li:nth-child(4) {
+  list-style: none;
+}
+
+.leadership {
+  padding-top: 10px;
+}
+
+.positionE {
+  padding-left: 30px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.positionL {
+  padding-left: 30px;
+}
+
+.leadership li {
+  padding-top: 7px;
+}
+
+.achievements-content {
+  padding-left: 30px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.text2 {
+  padding: 10px 30px;
+}
+
+.education-content {
+  padding-left: 30px;
+}
+
+.padding-bottom {
+  padding-bottom: 14px;
+}
+
+.achievements {
+  padding-top: 10px;
+}
+
+/* .mini-container {
+  position: relative;
+  background-color: yellow;
+} */
